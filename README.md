@@ -1,0 +1,1 @@
+This is a sample exercise for React + Flux. Following steps from Cory House, course from Pluralsight. 
